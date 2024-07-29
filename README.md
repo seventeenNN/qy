@@ -1,0 +1,2 @@
+# qy
+jobs about embedded
