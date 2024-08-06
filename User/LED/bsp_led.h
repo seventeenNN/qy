@@ -5,7 +5,7 @@
 #include "stm32f4xx.h"//¼Ä´æÆ÷Ó³Éä
 
 
-
+void LED_GPIO_Config(void);
 
 
 

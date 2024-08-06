@@ -33,8 +33,5 @@
 .\objects\main.o: ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_can.h
 .\objects\main.o: ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dac.h
 .\objects\main.o: ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dcmi.h
-.\objects\main.o: ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dma2d.h
-.\objects\main.o: ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_fmc.h
-.\objects\main.o: ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_ltdc.h
-.\objects\main.o: ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_sai.h
+.\objects\main.o: ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_fsmc.h
 .\objects\main.o: ..\..\User\LED\bsp_led.h

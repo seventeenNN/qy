@@ -27,7 +27,7 @@ void LED_GPIO_Config(void)
 	
 	GPIO_Init(GPIOF, &GPIO_InitStruct);
 	
-	//GPIO_ResetBits(GPIOF, GPIO_Pin_6);
+	GPIO_ResetBits(GPIOF, GPIO_Pin_6);
 	
 	
 
